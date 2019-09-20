@@ -1,4 +1,4 @@
-package com.jp.core.stereotypes;
+package com.jp.stereotypes;
 
 import java.util.Set;
 

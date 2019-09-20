@@ -1,6 +1,6 @@
 package com.jp.core;
 
-import com.jp.core.stereotypes.Mapper;
+import com.jp.stereotypes.Mapper;
 import javafx.scene.shape.Rectangle;
 
 import java.util.Map;
